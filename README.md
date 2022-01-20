@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# prays
+# PRE-POPULATED SQLITE DATABASE FLUTTER
 
 A new Flutter project.
 
