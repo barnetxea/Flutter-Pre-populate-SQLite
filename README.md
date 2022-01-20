@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PRE-POPULATED SQLITE DATABASE FLUTTER
 
 A new Flutter project.
